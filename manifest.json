@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "description" : "test",
+  "name": "chrome extension test",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_popup": "hello.html"
+  }
+}
